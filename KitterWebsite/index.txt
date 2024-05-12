@@ -49,6 +49,7 @@ Top
 categories
 
 alt = Cat Food
+<ion-icon name="add-outline" aria-hidden="true"></ion-icon>
 
 Cat Food
 
